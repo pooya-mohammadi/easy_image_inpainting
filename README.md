@@ -1,7 +1,10 @@
 # Easy Image Editing
 
-In this repository, we provide a simple interface for editing images using the Generative AI. We have several sections
-for this process:
+In this repository, we provide a simple interface for editing images using the Generative AI. 
+We have several sections for this process:
+
+You can also try it on colab:
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pooya-mohammadi/easy_image_editing/blob/main/easy_image_editing_grounding_dino_glide.ipynb)
 
 ## Object Selection:
 In this section, we choose the object we want to edit. To do this we use Grounding Dino model. A sample:</br>
@@ -19,6 +22,12 @@ In this section, we choose the object we want to edit. To do this we use Groundi
 In this section, we replace the selected objects with generated images. A sample:</br>
 
 Text for object generation: `Dead leaves`</br>
+
+**Output Image:</br>**
+<img src="https://github.com/pooya-mohammadi/deep_utils/releases/download/1.0.2/glide_output.jpg" width="400">
+### TODO List:
+- [x] Add GLIDE model
+- [ ] Add Diffusion models
 
 **Output Image:</br>**
 <img src=""></br>
