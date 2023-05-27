@@ -3,7 +3,7 @@
 In this repository, we provide a simple interface for editing images using the Generative AI.
 We have several sections for this process:
 
-You can also try it on colab:
+You can also try it on colab:</br>
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pooya-mohammadi/easy_image_editing/blob/main/easy_image_editing_grounding_dino_glide.ipynb)
 
 ## Object Selection:
