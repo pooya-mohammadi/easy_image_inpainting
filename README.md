@@ -23,8 +23,10 @@ In this section, we replace the selected objects with generated images. A sample
 
 Text for object generation: `Dead leaves`</br>
 
-**Output Image:</br>**
+**Output Image:**</br>
+
 <img src="https://github.com/pooya-mohammadi/deep_utils/releases/download/1.0.2/glide_output.jpg" width="400">
+
 ### TODO List:
 - [x] Add GLIDE model
 - [ ] Add Diffusion models
