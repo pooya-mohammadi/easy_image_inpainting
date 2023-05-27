@@ -25,6 +25,8 @@ In this section, we replace the selected objects with generated images. A sample
 
 Text for object generation: `Dead leaves`</br>
 
+As you can see, the `hen` is replaced with `dead leaves`.</br>
+
 **Output Image:**</br>
 
 <img src="https://github.com/pooya-mohammadi/deep_utils/releases/download/1.0.2/glide_output.jpg" width="400">
