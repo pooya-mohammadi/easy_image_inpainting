@@ -1,4 +1,4 @@
-# Easy Image Editing
+# Easy Image Inpainting
 
 In this repository, we provide a simple interface for editing images using the Generative AI.
 We have several sections for this process:
