@@ -1,6 +1,6 @@
 # Easy Image Inpainting
 
-In this repository, we provide a simple interface for editing images using the Generative AI. Try it on Colab:</br>
+In this repository, we provide a simple interface for editing images using the Generative AI. Try it on Colab:</br></br>
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pooya-mohammadi/easy_image_editing/blob/main/easy_image_editing_grounding_dino_glide.ipynb)
 
 </br>
