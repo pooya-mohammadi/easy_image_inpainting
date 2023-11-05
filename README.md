@@ -1,6 +1,6 @@
 # Easy Image Inpainting
 
-In this repository, we provide a simple interface for editing images using the Generative AI. Try it on Colab:</br></br>
+In this repository, we provide a simple interface for editing images using the Generative AI(**Grounding Dino** & **Glide-Diffusion**). Try it on Colab:</br></br>
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pooya-mohammadi/easy_image_editing/blob/main/easy_image_editing_grounding_dino_glide.ipynb)
 
 </br>
@@ -9,7 +9,7 @@ We have several sections for an image to be modified:
 
 ## Object Selection:
 
-In this section, we choose the object we want to edit. To do this we use Grounding Dino model. A sample:</br>
+In this section, we choose the object we want to edit. To do this we use **Grounding Dino** model. A sample:</br>
 **Input Image:</br>**
 <img src="https://github.com/pooya-mohammadi/deep_utils/releases/download/1.0.2/golsa_in_garden.jpg" width="400">
 
@@ -19,7 +19,7 @@ In this section, we choose the object we want to edit. To do this we use Groundi
 
 ### TODO List:
 
-- [x] Add Grounding Dino model
+- [x] Add **Grounding Dino** model 
 
 ## Image Inpainting:
 
@@ -36,7 +36,6 @@ As you can see, the `hen` is replaced with `dead leaves`.</br>
 ### TODO List:
 
 - [x] Add GLIDE model
-- [ ] Add Diffusion models
 
 # References:
 
