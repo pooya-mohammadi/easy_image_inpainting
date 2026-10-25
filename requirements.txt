@@ -1,6 +1,6 @@
 torch==1.13.1
 requests>=2.31.0
-Pillow==9.3.0
+Pillow
 numpy==1.23.5
 deep_utils==1.2.1
 git+https://github.com/IDEA-Research/GroundingDINO
